@@ -1,0 +1,117 @@
+/*
+Theme Name: Starkers
+Theme URI: http://elliotjaystocks.com
+Description: The totally nude Wordpress theme. Phwoar! (Based on Twenty Ten)
+Version: 3.0
+Author: Elliot Jay Stocks
+Author URI: http://elliotjaystocks.com
+Tags: starkers, naked, clean, basic
+*/
+
+
+
+body{direction:rtl; margin-top:auto; margin-bottom:auto; font-family:Arial, Helvetica, sans-serif;}
+
+p{line-height:19px;}
+
+.facebook{cursor: pointer; margin-left: 10px; margin-top: 10px; position: fixed; left: 0; top: 0;}
+
+.container{margin-right:auto; margin-left:auto; width:951px; height:987px; border:#e5e1e1 1px solid; padding-bottom:19px;}
+
+.topmenu{width:930px; height:27px; margin-top:82px; font-size:13px; list-style:none; padding:0px; margin-left:10px;}
+
+.topmenu:first-child li{ background-color:#000;}
+
+li.maintop{background-image:url(images/tab3.jpg) !important; color:#ffffff !important;}
+
+li.maintop a:visited{color:#fff;}
+
+ul.topmenu li{float:right; width:91px; height:27px; margin-left:3px; text-decoration:none; background-image:url('images/tab2.jpg');}
+
+ul.topmenu a{float:right; text-decoration:none; line-height:25px; margin-right:15px; color:#000; width:91px; height:27px; display:block;}
+
+ul.topmenu a:active{font-weight:bold;}
+
+ul.topmenu a:hover{color:#000;}
+
+.logo{float:right}
+
+.topimage{width:100%; height:221px; padding-bottom:36px; padding-top:1px; background-image:url(images/header.jpg);}
+
+.headertitle{margin-right:353px; color:#FFF; font-size:24px; font-weight:normal; margin-bottom:-12px;}
+
+.intro{margin-right:353px; color:#FFF; font-size:14px;}
+
+.clear{clear:both;}
+
+.background{width:100%; min-height:576px; overflow:hidden; background-image:url(images/background.jpg);}
+
+.the_title{margin-top:-3px; font-weight:normal;}
+
+.thecontent{float:left; margin-left:30px; min-height:400px; width:700px;}
+
+.firstdiv-hp{height:216px; width:100%; margin-right:auto; margin-left:auto; padding-right:65px; margin-top:-3px;}
+
+.box{width:151px; height:215px; float:right; margin-left:78px;}
+
+.sidetitle2{font-size:20px; color:#01245c; letter-spacing:-2px;}
+
+.pixel2{width:151px; height:7px; margin-bottom:3px;}
+
+.padding{padding-right:61px;}
+
+.second-image{padding-top:5px;}
+
+.margin-top{margin-top:23px;}
+
+.info{margin-top:3px;}
+
+.seconddiv{background-image:url(images/seconddiv.png); width:535px; height:251px; margin-right:auto; margin-left:auto;}
+
+.second-d-title{color:#01245c; margin-right:52px; padding-top:39px;}
+
+.second-d-ul{margin-right:35px;}
+
+.ulcss{line-height:27px; margin-right:-24px;}
+
+.fullname, .phone, .emailfield, .subjectfield{background-image:url(images/input2.png); background-color:transparent; background-repeat:no-repeat; padding-right:9px; border:none; width:274px; height:38px; margin-bottom:3px;}
+
+.themessege{height:140px; min-height:140px; max-height:140px; width:341px; min-width:341px; max-width:341px; background-color:transparent; margin-top:-10px; padding-right:9px; padding-top:9px; background-image:url(images/themessage.png); background-repeat:no-repeat; border:none;}
+
+.submitbutton{ width:97px; height:33px; cursor: pointer; background-image:url(images/submit.png); background-color:transparent; border:none; text-indent:-999px; margin-top:5px; margin-bottom:-8px;}
+
+.wpcf7-not-valid-tip{left:25px !important; width:235px !important;}
+
+.sidemenu{width:162px; height:550px; margin-top:3px; padding-right:30px; float:right;}
+
+.sidetitle{font-size:21px; color:#01245c; letter-spacing:-2px;}
+
+.sidelink{font-size:13px; color:#000; margin-right:13px; text-decoration:none; width:153px; height:19px; display:block;}
+
+.sidelink:hover{color:#FFF;}
+
+.pixel1{background-image:url(images/pixel1.jpg); width:151px; height:7px; margin-bottom:3px;}
+
+.vmenu{width:153px;}
+
+ul.vmenu{list-style:none; padding:0px;}
+
+.out{background-image: url('images/out.jpg'); width:153px; height:19px; margin-bottom:3px; line-height:14px;}
+
+.out:hover{background-image: url('images/over.jpg'); width:153px; height:19px; margin-bottom:3px;}
+
+.out:hover .sidelink{color:#FFF;}
+
+.margin_top{margin-top:10px;}
+
+.margin_bottom{margin-bottom:10px;}
+
+.main{float:left; width:700px; max-width:700px; height:540px; overflow:hidden; margin-left:40px;}
+
+.footer{width:100%; height:44px; background-image:url(images/footer.jpg); clear:both;}
+
+.arb{float:right; color:#FFF; font-size:25px; margin-top:7px; margin-right:4px;}
+
+.callus{float:left; color:#fff; margin-top:4px; margin-left:4px;}
+
+.seo{width:400px; height:50px; margin-top:12px; margin-right:auto; margin-left:auto; color:#666; font-size:14px;}

@@ -1,0 +1,29 @@
+
+									
+#slideshow { list-style:none !important; color:#fff; }
+#slideshow span { display:none; }
+#slideshow-wrapper { position:relative; width:544px; background:#000000; padding:2px; border:1px solid #CCCCCC; margin:0; display:none; }
+#slideshow-wrapper * { margin:0; padding:0; }
+#fullsize { position:relative; z-index:1; overflow:hidden; width:542px; height:294px; border:1px #CCC solid; }
+#information { font-family:Verdana, Arial, Helvetica, sans-serif !important; position:absolute; bottom:0; width:544px; height:0; background:#000000; color:#FFFFFF; overflow:hidden; z-index:200; opacity:.7; filter:alpha(opacity=70); }
+#information h3 { color:#FFFFFF; padding:4px 8px 3px; margin:0 !important; font-size:16px; font-weight:bold; }
+#information p { color:#FFFFFF; padding:0 8px 8px; margin:0 !important; font-size: 14px; font-weight:normal; }
+#image { width:544px; no-repeat; }
+#image img { position:absolute; border:none; width:542px; height:auto; } 
+.imgnav { position:absolute; width:25%; height:308px; cursor:pointer; z-index:150; }
+#imgprev { left:0; background:url('../images/left.gif') left center no-repeat; }
+#imgnext { right:0; background:url('../images/right.gif') right center no-repeat; }
+#imglink { position:absolute; zoom:1; background-color:#ffffff; height:308px; width:50%; left:25%; right:20%; z-index:999; opacity:0; filter:alpha(opacity=0); }
+.linkhover { background:transparent url('../images/link.gif') center center no-repeat !important; text-indent:-9999px; opacity:.4 !important; filter:alpha(opacity=40) !important; }
+#thumbnails { background:#000000; }
+.thumbstop { margin-bottom:8px !important; }
+.thumbsbot { margin-top:8px !important; }
+#slideleft { float:left; width:20px; height:81px; background:url('../images/scroll-left.gif') center center no-repeat; background-color:#222; }
+#slideleft:hover { background-color:#333; }
+#slideright { float:right; width:20px; height:81px; background:#222 url('../images/scroll-right.gif') center center no-repeat; }
+#slideright:hover { background-color:#333; }
+#slidearea { float:left; background:#000000; position:relative; width:493px; margin-left:5px; height:81px; overflow:hidden; }
+#slider { position:absolute; left:0; height:81px; }
+#slider img { cursor:pointer; border:1px solid #666; padding:2px; -moz-border-radius:4px; -webkit-border-radius:4px; float:left !important; }
+#spinner { position:relative; top:50%; left:45%; }	
+#spinner img {border:none;}

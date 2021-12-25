@@ -1,0 +1,888 @@
+Uri: http://www.ar-b.co.il/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\index.htm
+Content Type: text/html
+
+Uri: https://gmpg.org/xfn/11
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\xfn\11.html
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/style.css
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\style.css
+Content Type: text/css
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/css/gallery-css.php?1=1&resizeimages=Y&width=550&height=300&border=1px+solid+%23CCCCCC&background=%23000000&infobackground=%23000000&infocolor=%23FFFFFF&ver=1.0
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\css\gallery-css.php.css
+Content Type: text/css
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/contact-form-7/styles.css?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\contact-form-7\styles.css
+Content Type: text/css
+
+Uri: http://www.ar-b.co.il/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-includes\wlwmanifest.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/אודותינו/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\אודותינו\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/בנייה/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בנייה\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/עבודות-גמר/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-גמר\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/שיפוצים/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\שיפוצים\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/צור-קשר/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\צור-קשר\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/תמא-38/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\תמא-38\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/בניית-מנהרה/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בניית-מנהרה\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/עבודות-גמר-גלריה/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-גמר-גלריה\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/בנייתפנטהאוז/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בנייתפנטהאוז\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/בניית-שלד/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בניית-שלד\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/מהמסד-ועד-הטפחות/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\מהמסד-ועד-הטפחות\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/טיפים-לבחירת-קבלן-בניין/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\טיפים-לבחירת-קבלן-בניין\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/wp-includes/js/jquery/jquery.js?ver=1.7.1
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/js/gallery.js?ver=1.0
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\js\gallery.js
+Content Type: application/javascript
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/facebook.png
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\facebook.png
+Content Type: image/png
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/logo.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\logo.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/pixel1.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\pixel1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/li-image.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\li-image.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/long-hr.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\long-hr.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/galleryIcon1.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\galleryIcon1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/galleryIcon2.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\galleryIcon2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/contact-form-7/jquery.form.js?ver=3.08
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\contact-form-7\jquery.form.js
+Content Type: application/javascript
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/contact-form-7/scripts.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\contact-form-7\scripts.js
+Content Type: application/javascript
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/tab3.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\tab3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/tab2.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\tab2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/header.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\header.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/background.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\background.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/seconddiv.png
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\seconddiv.png
+Content Type: image/png
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/input2.png
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\input2.png
+Content Type: image/png
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/themessage.png
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\themessage.png
+Content Type: image/png
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/submit.png
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\submit.png
+Content Type: image/png
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/out.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\out.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/over.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\over.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/themes/Starkers/images/footer.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\themes\Starkers\images\footer.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/images/left.gif
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\images\left.gif
+Content Type: image/gif
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/images/right.gif
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\images\right.gif
+Content Type: image/gif
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/images/link.gif
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\images\link.gif
+Content Type: image/gif
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/images/scroll-left.gif
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\images\scroll-left.gif
+Content Type: image/gif
+
+Uri: http://www.ar-b.co.il/wp-content/plugins/slideshow-gallery/images/scroll-right.gif
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\plugins\slideshow-gallery\images\scroll-right.gif
+Content Type: image/gif
+
+Uri: http://www.ar-b.co.il/אודותינו/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\אודותינו\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-includes/js/comment-reply.js?ver=20090102
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-includes\js\comment-reply.js
+Content Type: application/javascript
+
+Uri: http://www.ar-b.co.il/בנייה/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בנייה\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1764.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1764.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1754.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1754.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1741.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1741.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1736.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1736.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2518.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2518.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2506.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2506.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2498.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2498.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2435.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2435.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2388.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2388.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2348.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2348.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2340.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2340.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2340-2.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2340-2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2320.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2320.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1764-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1764-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1754-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1754-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1741-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1741-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/IMG_1736-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\IMG_1736-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2518-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2518-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2506-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2506-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2498-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2498-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2435-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2435-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2388-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2388-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2348-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2348-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2340-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2340-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2340-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2340-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC_2320-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC_2320-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/עבודות-גמר/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-גמר\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/052.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\052.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/052-1024x768.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\052-1024x768.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/שיפוצים/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\שיפוצים\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC016251.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC016251.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/צור-קשר/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\צור-קשר\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/ראשי/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\ראשי\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/תמא-38/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\תמא-38\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: https://www.youtube.com/embed/ul3hqH7lSJI?feature=oembed
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\embed\ul3hqH7lSJI.html
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/בניית-מנהרה/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בניית-מנהרה\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/יותם-17/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\יותם-17\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהררה-לאחר-פרוק-טפסות-01.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהררה-לאחר-פרוק-טפסות-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-טפסות-קירות-01.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-טפסות-קירות-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-זיון-רצפה-וצנור-שרשורי-05.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-זיון-רצפה-וצנור-שרשורי-05.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-זיון-רצפה-04.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-זיון-רצפה-04.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-אטום-רצפה-03.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-אטום-רצפה-03.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-אטום-רצפה-01.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-אטום-רצפה-01.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01618.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01618.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01617.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01617.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01616.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01616.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהררה-לאחר-פרוק-טפסות-01-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהררה-לאחר-פרוק-טפסות-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-טפסות-קירות-01-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-טפסות-קירות-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-זיון-רצפה-וצנור-שרשורי-05-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-זיון-רצפה-וצנור-שרשורי-05-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-זיון-רצפה-04-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-זיון-רצפה-04-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-אטום-רצפה-03-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-אטום-רצפה-03-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/מנהרה-אטום-רצפה-01-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\מנהרה-אטום-רצפה-01-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01618-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01618-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01617-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01617-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC01616-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC01616-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/עבודות-גמר-גלריה/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-גמר-גלריה\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/גלרייה-וילות-ועבודות-בנייה/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\גלרייה-וילות-ועבודות-בנייה\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0735.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0735.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0731.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0731.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0728.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0728.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0723.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0723.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0721.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0721.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0715.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0715.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0713.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0713.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0697.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0697.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0694.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0694.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0680.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0680.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0669.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0669.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0665.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0665.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0662.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0662.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0649.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0649.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0640.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0640.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0628.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0628.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0620.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0611.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0611.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0604.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0604.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0601.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0601.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0598.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0598.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0596.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0596.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0594.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0594.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0586.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0586.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0585.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0585.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0584.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0584.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0583.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0583.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0582.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0582.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0581.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0581.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0578.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0578.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/5.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\5.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/4.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\4.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/3.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\3.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/2.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/1.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\1.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0735-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0735-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0731-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0731-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0728-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0728-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0723-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0723-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0721-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0721-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0715-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0715-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0713-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0713-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0697-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0697-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0694-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0694-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0680-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0680-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0669-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0669-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0665-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0665-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0662-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0662-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0649-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0649-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0640-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0640-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0628-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0628-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0620-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0620-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0611-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0611-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0604-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0604-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0601-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0601-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0598-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0598-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0596-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0596-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0594-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0594-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0586-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0586-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0585-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0585-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0584-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0584-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0583-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0583-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0582-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0582-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0581-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0581-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_0578-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_0578-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/5-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\5-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/4-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/3-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/2-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/1-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/בנייתפנטהאוז/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בנייתפנטהאוז\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/IMG_1766.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\IMG_1766.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/IMG_1758.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\IMG_1758.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2669.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2669.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2619.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2619.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2603.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2603.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2506.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2506.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2504.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2504.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/IMG_1766-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\IMG_1766-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/IMG_1758-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\IMG_1758-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2669-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2669-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2619-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2619-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2603-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2603-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2506-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2506-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2014/04/DSC_2504-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2014\04\DSC_2504-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/בניית-שלד/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\בניית-שלד\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01625.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01625.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01624.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01624.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01623.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01623.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01625-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01625-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01624-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01624-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/02/DSC01623-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\02\DSC01623-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/מהמסד-ועד-הטפחות/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\מהמסד-ועד-הטפחות\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/טיפים-לבחירת-קבלן-בניין/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\טיפים-לבחירת-קבלן-בניין\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/עבודות-בנייה/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-בנייה\index.htm
+Content Type: text/html
+
+Uri: http://www.ar-b.co.il/ראשי/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\ראשי\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/יותם-17/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\יותם-17\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/גלרייה-וילות-ועבודות-בנייה/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\גלרייה-וילות-ועבודות-בנייה\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/13-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\13-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/12-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\12-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/11-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\11-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/10-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\10-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/9-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\9-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/8-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\8-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/7-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/4-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/3-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/2-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/1-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/עבודות-בנייה/feed/
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\עבודות-בנייה\feed\index.htm.xml
+Content Type: text/xml
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00753-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00753-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00752-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00752-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00751-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00751-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00670-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00670-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00669-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00669-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00668-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00668-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://www.ar-b.co.il/wp-content/uploads/2012/05/DSC00667-150x150.jpg
+File Name: C:\Downloaded Web Sites\www.ar-b.co.il\wp-content\uploads\2012\05\DSC00667-150x150.jpg
+Content Type: image/jpeg
+
